@@ -1,0 +1,15 @@
+/Users/apple/Desktop/seminar3/task3/bin/Debug/net8.0/task3
+/Users/apple/Desktop/seminar3/task3/bin/Debug/net8.0/task3.deps.json
+/Users/apple/Desktop/seminar3/task3/bin/Debug/net8.0/task3.runtimeconfig.json
+/Users/apple/Desktop/seminar3/task3/bin/Debug/net8.0/task3.dll
+/Users/apple/Desktop/seminar3/task3/bin/Debug/net8.0/task3.pdb
+/Users/apple/Desktop/seminar3/task3/obj/Debug/net8.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/seminar3/task3/obj/Debug/net8.0/task3.AssemblyInfoInputs.cache
+/Users/apple/Desktop/seminar3/task3/obj/Debug/net8.0/task3.AssemblyInfo.cs
+/Users/apple/Desktop/seminar3/task3/obj/Debug/net8.0/task3.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/seminar3/task3/obj/Debug/net8.0/task3.sourcelink.json
+/Users/apple/Desktop/seminar3/task3/obj/Debug/net8.0/task3.dll
+/Users/apple/Desktop/seminar3/task3/obj/Debug/net8.0/refint/task3.dll
+/Users/apple/Desktop/seminar3/task3/obj/Debug/net8.0/task3.pdb
+/Users/apple/Desktop/seminar3/task3/obj/Debug/net8.0/task3.genruntimeconfig.cache
+/Users/apple/Desktop/seminar3/task3/obj/Debug/net8.0/ref/task3.dll
